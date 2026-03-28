@@ -1,5 +1,2 @@
-# 👋 Hi, I’m @HyperGlowGames
-I’m interested in Game Development and coding in general. I’m currently learning Godot Engine & GDscript, Python.
-
-# Current Projects
-I'm currently creating a game in the godot engine with some friends and various small python projects.
+# 👋 Hi, I’m @MasterMind93302
+I’m interested in Cybersecurity and programming in general. I am fairly proficient at python and am currently learning c#. I have also used the Godot game engine in the past.
